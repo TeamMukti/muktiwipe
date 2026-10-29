@@ -1,0 +1,10 @@
+# build intermediates and artifacts
+obj/
+*.obj
+*.pdb
+*.exp
+*.exe.manifest
+
+# built binary - keep it out of the repository, publish it in Releases
+# (delete the line below if you prefer to commit the exe)
+*.exe
